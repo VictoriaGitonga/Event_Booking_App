@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Usiboeke hii weekend!</string>
+    <string name="nav_header_subtitle">gigske254@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="events_added">Event Successfully Added</string>
+    <string name="error">Event adding was unsuccessful</string>
+
+    <string name="concerts">Concerts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

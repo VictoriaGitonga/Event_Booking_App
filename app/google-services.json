@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958657904824",
+    "project_id": "gigske-e27c0",
+    "storage_bucket": "gigske-e27c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958657904824:android:42ab3b56c9e63c5401b44d",
+        "android_client_info": {
+          "package_name": "com.vicky.project2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958657904824-a4lfiifkrns37cmk2q4kcj9kk7ovc7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADHpFJ9xbotjigM0MawCOUQlFod8mQoK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958657904824-a4lfiifkrns37cmk2q4kcj9kk7ovc7l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
